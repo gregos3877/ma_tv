@@ -1,0 +1,43 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Page d'accueil{% endblock %}
+
+{% block body %}
+
+    {#<h2>Chaine brut récuperée</h2>#}
+    {#<div>#}
+        {#<p>{{ res }}</p>#}
+    {#</div>#}
+
+    {#<h2>Liste</h2>#}
+
+
+    {#<h2>Detail</h2>#}
+    {#<div>#}
+        {#<p> id : </p>#}
+        {#<p>Nom chaine : </p>#}
+        {#<p> Lien Chaine : </p>#}
+        {#<p> </p>#}
+    {#</div>#}
+    {#<div>#}
+        {#{% for l in liste.data %}#}
+            {#{{ l }}#}
+        {#{% endfor %}#}
+    {#</div>#}
+
+    {#{{ res|json_encode }}#}
+    {#{% for item in res %}#}
+    {#{{ item|json_encode }}d#}
+    {#{% endfor %}#}
+
+    {#{{ res }}#}
+
+    {{ form_start(form) }}
+
+    {{ form_widget(form) }}
+
+    <input type="submit" value="Recherche">
+
+    {{ form_end(form) }}
+
+{% endblock %}

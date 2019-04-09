@@ -1,0 +1,8 @@
+{% if chaine is defined %}
+    <li><a class="add_cart_btn"
+           href="{{ path('ajouter_chaine', {'chaine':chaine.id}) }}">Ajouter</a>
+    </li>
+{% else %}
+    <li><a class="add_cart_btn" style="background-color: red">Cette chaine est deja sur votre tv</a>
+    </li>
+{% endif %}

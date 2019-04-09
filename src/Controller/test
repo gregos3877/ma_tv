@@ -1,0 +1,3208 @@
+
+
+
+Symfony Profiler
+http://localhost:8000/matv/chaine/
+
+Method
+    GET
+HTTP Status
+    200
+IP
+    127.0.0.1
+Profiled on
+    Fri, 22 Mar 2019 11:13:56 +0100
+Token
+    9028a9
+
+Last 10 Latest
+
+
+Search
+
+
+
+Request / Response
+
+
+Performance
+Validator
+
+
+
+Forms
+
+
+Exception
+
+
+Logs
+
+
+Events
+
+
+Routing
+
+
+Cache
+
+
+Translation
+
+
+
+Security
+
+
+
+Twig
+
+
+
+Doctrine
+
+
+
+E-mails
+
+
+
+Debug
+
+
+
+
+    Configuration
+
+Settings
+
+Dumped Contents
+In ChaineController.php line 38:
+
+"https://www.youtube.com/gotag4"
+
+In ChaineController.php line 61:
+
+"""
+\n
+    <!DOCTYPE html><html lang="fr" data-cast-api-enabled="true"><head><style name="www-roboto" >@font-face{font-family:'Roboto';font-style:italic;font-weight:50 ▶
+  \n
+  \n
+\n
+\n
+\n
+\n
+  <script>\n
+        (function(){var a={a:"content-snap-width-1",b:"content-snap-width-2",f:"content-snap-width-3"};function f(){var c=[],b;for(b in a)c.push(a[b]);return c} ▶
+function h(c){var b=f().concat(["guide-pinned","show-guide"]),d=b.length,g=[];c.replace(/\S+/g,function(e){for(var k=0;k<d;k++)if(e==b[k])return;g.push(e)});\n
+return g}\n
+;function l(c,b,d){var g=document.getElementsByTagName("html")[0],e=h(g.className);c&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(e.push(" ▶
+var m=["yt","www","masthead","sizing","runBeforeBodyIsReady"],n=this;m[0]in n||"undefined"==typeof n.execScript||n.execScript("var "+m[0]);for(var p;m.length&&( ▶
+\n
+      try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffe ▶
+\n
+    yt.www.masthead.sizing.runBeforeBodyIsReady(true,true,true);\n
+  </script>\n
+\n
+      <script src="/yts/jsbin/scheduler-vflWUk-ha/scheduler.js" type="text/javascript" name="scheduler/scheduler" ></script>\n
+\n
+\n
+  \n
+  <link rel="stylesheet" href="/yts/cssbin/www-core-vflDEF_6i.css" name="www-core">\n
+      <link rel="stylesheet" href="/yts/cssbin/player-vflugWGNY/www-player.css" name="player/www-player">\n
+\n
+  <link rel="stylesheet" href="/yts/cssbin/www-pageframe-vfl2QekqP.css" name="www-pageframe">\n
+  <link rel="stylesheet" href="/yts/cssbin/www-guide-vflNDDMf7.css" name="www-guide">\n
+\n
+    \n
+<title>  GOTAGA\n
+ - YouTube</title><link rel="canonical" href="https://www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw"><link rel="alternate" media="handheld" href="https://m.y ▶
+\n
+      <meta name="description" content="Ancien joueur pro sur COD, actuellement le plus titré en France. Grand fan des FPS/TPS et de la performance en général,  ▶
+\n
+  <meta name="keywords" content="Gotaga Gotag4 Vitality COD FR Fornite FPS LeStream pro nuke moab h1z1 pubg survival perf">\n
+<link rel="manifest" href="/manifest.json"><link rel="search" type="application/opensearchdescription+xml" href="https://www.youtube.com/opensearch?locale=fr_FR ▶
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.youtube.com/feeds/videos.xml?channel_id=UCCFqUJYKT97UerMmb6DM0bw">\n
+    <link rel="publisher" href="https://plus.google.com/106832412253323283450">\n
+        <meta property="og:site_name" content="YouTube">\n
+      <meta property="og:url" content="https://www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw">\n
+    <meta property="og:title" content="GOTAGA">\n
+    <meta property="og:image" content="https://yt3.ggpht.com/a-/AAuE7mAczNrik62Vhu-jzLu4vTZWJ5O-gHdLsFE-MQ=s900-mo-c-c0xffffffff-rj-k-no">\n
+\n
+      <meta property="og:description" content="Ancien joueur pro sur COD, actuellement le plus titré en France. Grand fan des FPS/TPS et de la performance en gé ▶
+\n
+    <meta property="al:ios:app_store_id" content="544007664">\n
+    <meta property="al:ios:app_name" content="YouTube">\n
+      <meta property="al:ios:url" content="vnd.youtube://user/UCCFqUJYKT97UerMmb6DM0bw">\n
+\n
+      <meta property="al:android:url" content="https://www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw?feature=applinks">\n
+    <meta property="al:android:app_name" content="YouTube">\n
+    <meta property="al:android:package" content="com.google.android.youtube">\n
+    <meta property="al:web:url" content="https://www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw?feature=applinks">\n
+\n
+    <meta property="og:type" content="profile">\n
+\n
+        <meta property="og:video:tag" content="Gotaga">\n
+        <meta property="og:video:tag" content="Gotag4">\n
+        <meta property="og:video:tag" content="Vitality">\n
+        <meta property="og:video:tag" content="COD">\n
+        <meta property="og:video:tag" content="FR">\n
+        <meta property="og:video:tag" content="Fornite">\n
+        <meta property="og:video:tag" content="FPS">\n
+        <meta property="og:video:tag" content="LeStream">\n
+        <meta property="og:video:tag" content="pro">\n
+        <meta property="og:video:tag" content="nuke">\n
+        <meta property="og:video:tag" content="moab">\n
+        <meta property="og:video:tag" content="h1z1">\n
+        <meta property="og:video:tag" content="pubg">\n
+        <meta property="og:video:tag" content="survival">\n
+        <meta property="og:video:tag" content="perf">\n
+\n
+    <meta property="fb:app_id" content="87741124305">\n
+      <meta property="fb:profile_id" content="Gotag4">\n
+\n
+      <meta name="twitter:card" content="summary">\n
+    <meta name="twitter:site" content="@youtube">\n
+    <meta name="twitter:url" content="https://www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw">\n
+    <meta name="twitter:title" content="GOTAGA">\n
+    <meta name="twitter:description" content="Ancien joueur pro sur COD, actuellement le plus titré en France. Grand fan des FPS/TPS et de la performance en gén ▶
+    <meta name="twitter:image" content="https://yt3.ggpht.com/a-/AAuE7mAczNrik62Vhu-jzLu4vTZWJ5O-gHdLsFE-MQ=s900-mo-c-c0xffffffff-rj-k-no">\n
+    <meta name="twitter:app:name:iphone" content="YouTube">\n
+    <meta name="twitter:app:id:iphone" content="544007664">\n
+    <meta name="twitter:app:name:ipad" content="YouTube">\n
+    <meta name="twitter:app:id:ipad" content="544007664">\n
+      <meta name="twitter:app:url:iphone" content="vnd.youtube://user/UCCFqUJYKT97UerMmb6DM0bw">\n
+      <meta name="twitter:app:url:ipad" content="vnd.youtube://user/UCCFqUJYKT97UerMmb6DM0bw">\n
+    <meta name="twitter:app:name:googleplay" content="YouTube">\n
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube">\n
+    <meta name="twitter:app:url:googleplay" content="https://www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw">\n
+\n
+      <link itemprop="url" href="https://www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw">\n
+    <meta itemprop="name" content="GOTAGA">\n
+    <meta itemprop="description" content="Ancien joueur pro sur COD, actuellement le plus titré en France. Grand fan des FPS/TPS et de la performance en général ▶
+    <meta itemprop="paid" content="False">\n
+\n
+      <meta itemprop="channelId" content="UCCFqUJYKT97UerMmb6DM0bw">\n
+\n
+\n
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">\n
+          <link itemprop="url" href="http://www.youtube.com/user/GoTaG4">\n
+        </span>\n
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">\n
+          <link itemprop="url" href="https://plus.google.com/106832412253323283450">\n
+        </span>\n
+\n
+\n
+    <link itemprop="thumbnailUrl" href="https://yt3.ggpht.com/a-/AAuE7mAczNrik62Vhu-jzLu4vTZWJ5O-gHdLsFE-MQ=s900-mo-c-c0xffffffff-rj-k-no">\n
+    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">\n
+      <link itemprop="url" href="https://yt3.ggpht.com/a-/AAuE7mAczNrik62Vhu-jzLu4vTZWJ5O-gHdLsFE-MQ=s900-mo-c-c0xffffffff-rj-k-no">\n
+      <meta itemprop="width" content="900">\n
+      <meta itemprop="height" content="900">\n
+    </span>\n
+\n
+\n
+      <meta itemprop="isFamilyFriendly" content="True">\n
+      <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA ▶
+\n
+\n
+  <div id="watch-container" itemid="" itemscope itemtype="http://schema.org/YoutubeChannelV2">\n
+        <link itemprop="url" href="https://www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw">\n
+    <meta itemprop="name" content="GOTAGA">\n
+    <meta itemprop="description" content="Ancien joueur pro sur COD, actuellement le plus titré en France. Grand fan des FPS/TPS et de la performance en général ▶
+    <meta itemprop="paid" content="False">\n
+\n
+      <meta itemprop="channelId" content="UCCFqUJYKT97UerMmb6DM0bw">\n
+\n
+\n
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">\n
+          <link itemprop="url" href="http://www.youtube.com/user/GoTaG4">\n
+        </span>\n
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">\n
+          <link itemprop="url" href="https://plus.google.com/106832412253323283450">\n
+        </span>\n
+\n
+\n
+    <link itemprop="thumbnailUrl" href="https://yt3.ggpht.com/a-/AAuE7mAczNrik62Vhu-jzLu4vTZWJ5O-gHdLsFE-MQ=s900-mo-c-c0xffffffff-rj-k-no">\n
+    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">\n
+      <link itemprop="url" href="https://yt3.ggpht.com/a-/AAuE7mAczNrik62Vhu-jzLu4vTZWJ5O-gHdLsFE-MQ=s900-mo-c-c0xffffffff-rj-k-no">\n
+      <meta itemprop="width" content="900">\n
+      <meta itemprop="height" content="900">\n
+    </span>\n
+\n
+\n
+      <meta itemprop="isFamilyFriendly" content="True">\n
+      <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA ▶
+\n
+\n
+  </div>\n
+      <link rel="alternate" href="android-app://com.google.android.youtube/http/www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw">\n
+    <link rel="alternate" href="ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCCFqUJYKT97UerMmb6DM0bw">\n
+\n
+\n
+\n
+    <link rel="stylesheet" href="/yts/cssbin/www-home-c4-vflgGC6wm.css" name="www-home-c4">\n
+\n
+<style>.exp-invert-logo .hats-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_mini_gray-vflfanGkh.png);width: 65px;height: 15px;}.exp-invert-logo ▶
+\n
+      <body dir="ltr" id="body" class="  visibility-logging-enabled  ltr    exp-invert-logo exp-kevlar-settings exp-mouseover-img exp-responsive exp-search-big- ▶
+\n
+  <div id="early-body"></div>\n
+  <div id="body-container"><div id="a11y-announcements-container" role="alert"><div id="a11y-announcements-message"></div></div><form name="logoutForm" method=" ▶
+        \n
+\n
+  </div>\n
+  <div id="yt-masthead-container" class="clearfix yt-base-gutter">  <button id="a11y-skip-nav" class="skip-nav" data-target-id="main" tabindex="3">\n
+Ignorer les liens de navigation\n
+  </button>\n
+<div id="yt-masthead"><div class="yt-masthead-logo-container ">  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty  ▶
+  <div id="appbar-main-guide-notification-container"></div>\n
+<span id="yt-masthead-logo-fragment"><a href="/" class="masthead-logo-renderer yt-uix-sessionlink      spf-link " data-sessionlink="itct=CAUQsV4iEwiK08LmwZXhAhW ▶
+<span class="content-region">FR</span></a></span></div><div id="yt-masthead-signin">    <a  href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessio ▶
+<div class="signin-container "><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this. ▶
+</div></div><div id="yt-masthead-content"><form id="masthead-search" class="  search-form consolidated-form  vve-check" action="/results" onsubmit="if (document ▶
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class="">      <div id="appbar-nav" class="appbar-co ▶
+  <a href="/user/GoTaG4">\n
+    <img class="appbar-nav-avatar" src="https://yt3.ggpht.com/a-/AAuE7mAczNrik62Vhu-jzLu4vTZWJ5O-gHdLsFE-MQ=s100-mo-c-c0xffffffff-rj-k-no" title="GOTAGA" alt="G ▶
+  </a>\n
+<ul class="appbar-nav-menu"><li>    <a  href="/user/GoTaG4/featured?disable_polymer=1" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav ▶
+</li><li>    <h2 class="epic-nav-item-heading " aria-selected="true">\n
+      Vidéos\n
+    </h2>\n
+</li><li>    <a  href="/user/GoTaG4/playlists?disable_polymer=1" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-si ▶
+</li><li>    <a  href="/user/GoTaG4/community?disable_polymer=1" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-si ▶
+</li><li>    <a  href="/user/GoTaG4/channels?disable_polymer=1" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-siz ▶
+</li><li>    <a  href="/user/GoTaG4/about?disable_polymer=1" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-d ▶
+</li></ul>  </div>\n
+\n
+</div></div></div>\n
+\n
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="        not-fixed-width-tab-widescreen clearfix"><div id= ▶
+    <div id="guide-container">\n
+        <div class="guide-module-content yt-scrollbar">\n
+    <ul class="guide-toplevel">\n
+            <li class="guide-section vve-check"\n
+    data-visibility-tracking="">\n
+    <div class="guide-item-container personal-item">\n
+      \n
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="what_to_watch-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/"\n
+    title="Accueil"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-system&amp;ved=CDQQtSwYACITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-extern ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb guide-what-to-watch-icon yt-sprite"></span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Accueil\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="trending-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/feed/trending"\n
+    title="Tendances"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-trending&amp;ved=CDUQtSwYASITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exte ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb guide-trending-icon yt-sprite"></span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Tendances\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="history-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/feed/history"\n
+    title="Historique"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-personal&amp;ved=CDYQtSwYAiITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exte ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb guide-history-icon yt-sprite"></span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Historique\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="unlimited-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/premium"\n
+    title="Obtenir YouTube Premium"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;ved=CDcQmbcBGAMiEwiK08LmwZXhAhWHB-EKHQ6bDvsomxw" data-visibility-tracking="" data-external-id="unlimited" da ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb guide-video-youtube-red-icon yt-sprite"></span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Obtenir YouTube Premium\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+      </ul>\n
+    </div>\n
+      <hr class="guide-section-separator">\n
+  </li>\n
+\n
+            <li class="guide-section vve-check"\n
+    data-visibility-tracking="">\n
+    <div class="guide-item-container personal-item">\n
+          <h3>\n
+      Le meilleur de YouTube\n
+    </h3>\n
+\n
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UC-9-kyTW8ZkZNDHQJ6FgpwQ-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ"\n
+    title="Musique"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel&amp;ved=CDkQtSwYACITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exter ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" alt="" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//yt3.ggpht.com ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Musique\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCEgdi0XIXXZ-qJOFPf4JSKw-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"\n
+    title="Sport"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel&amp;ved=CDoQtSwYASITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exter ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" alt="" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//yt3.ggpht.com ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Sport\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCOpNcN46UbXVtpKMrmU4Abg-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/gaming"\n
+    title="Jeux vidéo"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel&amp;ved=CDsQtSwYAiITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exter ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" alt="" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//yt3.ggpht.com ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Jeux vidéo\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UClgRkhTL3_hImCAmdLfDE4g-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/channel/UClgRkhTL3_hImCAmdLfDE4g"\n
+    title="Films"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel&amp;ved=CDwQtSwYAyITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exter ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" alt="" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//yt3.ggpht.com ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Films\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCpprdiXpqe_9ptggJJkHJWg-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/channel/UCpprdiXpqe_9ptggJJkHJWg"\n
+    title="Émissions"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel&amp;ved=CD0QtSwYBCITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exter ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" alt="" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="https://yt3.ggp ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Émissions\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCYfdidRxbB8Qhf0Nx7ioOYw-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/channel/UCYfdidRxbB8Qhf0Nx7ioOYw"\n
+    title="Actualités"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel&amp;ved=CD4QtSwYBSITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exter ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" alt="" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//yt3.ggpht.com ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Actualités\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UC4R8DWoMoI7CAwX8_LjQHig-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/channel/UC4R8DWoMoI7CAwX8_LjQHig"\n
+    title="En direct"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel&amp;ved=CD8QtSwYBiITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exter ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" alt="" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//yt3.ggpht.com ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            En direct\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCzuqhhs6NWbgTzMuM09WKDQ-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/channel/UCzuqhhs6NWbgTzMuM09WKDQ"\n
+    title="Vidéo à 360°"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel&amp;ved=CEAQtSwYByITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-exter ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" alt="" src="/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" data-thumb="//yt3.ggpht.com ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Vidéo à 360°\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+      </ul>\n
+    </div>\n
+      <hr class="guide-section-separator">\n
+  </li>\n
+\n
+            <li class="guide-section vve-check"\n
+    data-visibility-tracking="">\n
+    <div class="guide-item-container personal-item">\n
+      \n
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">\n
+            \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="guide_builder-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link    "\n
+    href="/feed/guide_builder"\n
+    title="Parcourir les chaînes"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-manage&amp;ved=CEIQtSwYACITCIrTwubBleECFYcH4QodDpsO-yibHA" data-visibility-tracking="" data-extern ▶
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb guide-builder-icon yt-sprite"></span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            Parcourir les chaînes\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+  </li>\n
+\n
+      </ul>\n
+    </div>\n
+      <hr class="guide-section-separator">\n
+  </li>\n
+\n
+            <li class="guide-section guide-header signup-promo">\n
+    <p>\n
+      Connectez-vous maintenant pour consulter vos chaînes et les recommandations.\n
+    </p>\n
+    <div id="guide-builder-promo-buttons" class="signed-out clearfix">\n
+      <a  href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fuser%252FGoTaG4%252Fvide ▶
+    </div>\n
+  </li>\n
+\n
+    </ul>\n
+  </div>\n
+\n
+    </div>\n
+  </div>\n
+  <div id="appbar-guide-notifications" class="hid">\n
+        <div id="appbar-guide-notification-watch-later-video-added">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-watch-later-video-removed">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-subscription">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-unsubscription">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-playlist-like">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-playlist-unlike">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-playlist-video-added">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-playlist-video-removed">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-video-like">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-video-unlike">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-event-reminder-set">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+    <div id="appbar-guide-notification-event-reminder-removed">\n
+    <!--\n
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notificatio ▶
+    -->\n
+  </div>\n
+\n
+\n
+  </div>\n
+  <div id="appbar-guide-item-templates" class="hid">\n
+        <div id="appbar-guide-item-template-playlist">\n
+      <!--\n
+        \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "\n
+    href="__URL__"\n
+    title="__TITLE__"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-playlists" data-visibility-tracking="" data-external-id="__ID__" data-serialized-endpoint=""\n
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb guide-playlists-icon yt-sprite"></span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            __TITLE__\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><s ▶
+  </li>\n
+\n
+      -->\n
+    </div>\n
+    <div id="appbar-guide-item-template-mix">\n
+      <!--\n
+        \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "\n
+    href="__URL__"\n
+    title="__TITLE__"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-playlists" data-visibility-tracking="" data-external-id="__ID__" data-serialized-endpoint=""\n
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb guide-mix-icon yt-sprite"></span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            __TITLE__\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><s ▶
+  </li>\n
+\n
+      -->\n
+    </div>\n
+    <div id="appbar-guide-item-template-channel">\n
+      <!--\n
+        \n
+  <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item" \n
+ data-visibility-tracking="" role="menuitem">\n
+      \n
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink    "\n
+    href="__URL__"\n
+    title="__TITLE__"\n
+    data-sessionlink="ei=ZLWUXIqRDoePhAeOtrrYDw&amp;feature=g-channel" data-visibility-tracking="" data-external-id="__ID__" data-serialized-endpoint=""\n
+  >\n
+    <span class="yt-valign-container">\n
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"\n
+    >\n
+    <span class="yt-thumb-square">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" src="__THUMBNAIL_URL__" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" height="20" width="20" >\n
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</span>\n
+        <span class="display-name  no-count">\n
+          <span>\n
+            __TITLE__\n
+          </span>\n
+        </span>\n
+    </span>\n
+  </a>\n
+\n
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><s ▶
+  </li>\n
+\n
+      -->\n
+    </div>\n
+\n
+  </div>\n
+\n
+</div><div class="alerts-wrapper"><div id="alerts" class="content-alignment">    <div class="yt-alert yt-alert-default yt-alert-info  " id="yt-lang-alert-contai ▶
+    <span class="icon master-sprite yt-sprite"></span>\n
+  </div>\n
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message" tabindex="0">\n
+            Sélectionnez votre langue.\n
+\n
+    </div>\n
+</div><div class="yt-alert-buttons"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";retu ▶
+    <div id="default-language-message">\n
+      <div class="yt-lang-alert-controls">\n
+        <a href="//support.google.com/youtube/answer/1738660?hl=fr">En savoir plus</a><br>\n
+          <a href="javascript:void(0)" onclick="yt.style.toggle('default-language-message', 'default-language-message-english'); return false;">View this messag ▶
+      </div>\n
+YouTube s&#39;affiche actuellement en <strong>Français</strong>.\n
+Vous pouvez <a href="javascript:void(0)" onclick="yt.www.picker.displayLang();">modifier ce paramètre ci-dessous</a>.\n
+    </div>\n
+    <div id="default-language-message-english" class="hid">\n
+      <div class="yt-lang-alert-controls">\n
+        <a href="//support.google.com/youtube/answer/1738660?hl=en">Learn more</a><br>\n
+      </div>\n
+      You're viewing YouTube in <strong>French</strong>.\n
+        You can <a href="javascript:void(0)" onclick="yt.www.picker.displayLang();">change this preference below</a>.\n
+    </div>\n
+  </div>\n
+</div></div>\n
+\n
+</div></div><div id="header"></div><div id="player" class="  off-screen  " role="complementary"><div id="theater-background" class="player-height"></div>  <div  ▶
+    <div id="player-unavailable" class="  hid  ">\n
+      \n
+    </div>\n
+\n
+    <div id="player-api" class="player-width player-height off-screen-target player-api" tabIndex="-1"></div>\n
+        <script >if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>\n
+    <script >var ytplayer = ytplayer || {};ytplayer.config = {"url":"","attrs":{"id":"movie_player"},"params":{"allowscriptaccess":"always","allowfullscreen":"t ▶
+\n
+\n
+    <div id="watch-queue-mole" class="video-mole mole-collapsed hid"><div id="watch-queue" class="watch-playlist player-height"><div class="main-content"><div c ▶
+    \n
+    \n
+    <button onclick=";return false;" aria-haspopup="true" aria-label="Actions pour la file d&amp;#39;attente" class="flip control-bar-button yt-uix-button yt-ui ▶
+  </span>\n
+  <div class="watch-queue-controls">\n
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button- ▶
+\n
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button- ▶
+\n
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button ▶
+\n
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button- ▶
+  </div>\n
+</div><div class="autoplay-dismiss-bar fade-out"><span class="autoplay-dismiss-title-label">La vidéo suivante va commencer</span><span><button class="yt-uix-but ▶
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+Chargement…\n
+    </span>\n
+  </p>\n
+</ol><div class="autoplay-control-container yt-uix-scroller-scroll-unit hid">  <div class="autoplay-control-bar">\n
+    <label class="autoplay-label" for=autoplay-toggle-id></label>\n
+    <label class="yt-uix-form-input-checkbox-container yt-uix-form-input-container yt-uix-form-input-paper-toggle-container  "><input class="yt-uix-form-input-c ▶
+  </div>\n
+</div><div class="up-next-item-container hid"></div></div></div></div>  <div class="hid">\n
+    <div id="watch-queue-title-msg">\n
+Liste de vidéos à visionner\n
+    </div>\n
+\n
+    <div id="tv-queue-title-msg">File d&#39;attente</div>\n
+\n
+    <div id="watch-queue-count-msg">\n
+__count__/__total__\n
+    </div>\n
+\n
+    <div id="watch-queue-loading-template">\n
+      <!--\n
+          <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+Chargement…\n
+    </span>\n
+  </p>\n
+\n
+      -->\n
+    </div>\n
+  </div>\n
+</div></div>\n
+\n
+    <div id="player-playlist" class="  hid  ">\n
+      \n
+    </div>\n
+\n
+  </div>\n
+\n
+  <div class="clear"></div>\n
+</div><div id="content" class="  content-alignment" role="main">\n
+\n
+\n
+  <div class="branded-page-v2-container branded-page-base-bold-titles branded-page-v2-container-flex-width branded-page-v2-has-top-row branded-page-v2-secondary ▶
+      <div class="branded-page-v2-top-row">\n
+                  <div class="branded-page-v2-header channel-header yt-card channel-header-auto-hide hid">\n
+    <div id="gh-banner">\n
+          <style>\n
+      #c4-header-bg-container {\n
+      background-image: url(//yt3.ggpht.com/TFV10LWLLXZ6ew2z5bJeT6zyPX_QN5Rr9LeMz1dwOB9QQ37Wxdfjvvo6ijTTnluwc4Ch35zGsQ=w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xff ▶
+  }\n
+\n
+\n
+  @media screen and (-webkit-min-device-pixel-ratio: 1.5),\n
+         screen and (min-resolution: 1.5dppx) {\n
+#c4-header-bg-container {\n
+        background-image: url(//yt3.ggpht.com/TFV10LWLLXZ6ew2z5bJeT6zyPX_QN5Rr9LeMz1dwOB9QQ37Wxdfjvvo6ijTTnluwc4Ch35zGsQ=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0x ▶
+    }\n
+  }\n
+\n
+#c4-header-bg-container .hd-banner-image {\n
+      background-image: url(//yt3.ggpht.com/TFV10LWLLXZ6ew2z5bJeT6zyPX_QN5Rr9LeMz1dwOB9QQ37Wxdfjvvo6ijTTnluwc4Ch35zGsQ=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xff ▶
+  }\n
+\n
+    </style>\n
+  <div id="c4-header-bg-container" class="c4-visible-on-hover-container  has-custom-banner">\n
+    <div class="hd-banner">\n
+      <div class="hd-banner-image"></div>\n
+    </div>\n
+          <div id="header-links">\n
+      <ul class="about-secondary-links">\n
+            <li class="channel-links-item">\n
+    <a href="https://www.twitch.tv/Gotaga" rel="me nofollow" target="_blank" title="Twitch" class="about-channel-link yt-uix-redirect-link about-channel-link-wi ▶
+        <img src="//s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.twitch.tv&amp;feature=youtube_channel" class="about-channel-link-favicon"  ▶
+    </a>\n
+  </li>\n
+\n
+            <li class="channel-links-item">\n
+    <a href="https://www.twitter.com/Gotaga" rel="me nofollow" target="_blank" title="Twitter" class="about-channel-link yt-uix-redirect-link about-channel-link ▶
+        <img src="//s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.twitter.com&amp;feature=youtube_channel" class="about-channel-link-favicon ▶
+    </a>\n
+  </li>\n
+\n
+            <li class="channel-links-item">\n
+    <a href="http://instagram.com/imGotaga" rel="me nofollow" target="_blank" title="Instagram" class="about-channel-link yt-uix-redirect-link about-channel-lin ▶
+        <img src="//s2.googleusercontent.com/s2/favicons?domain_url=http%3A%2F%2Finstagram.com&amp;feature=youtube_channel" class="about-channel-link-favicon" a ▶
+    </a>\n
+  </li>\n
+\n
+            <li class="channel-links-item">\n
+    <a href="http://www.facebook.com/Gotag4" rel="me nofollow" target="_blank" title="Facebook" class="about-channel-link yt-uix-redirect-link about-channel-lin ▶
+        <img src="//s2.googleusercontent.com/s2/favicons?domain_url=http%3A%2F%2Fwww.facebook.com&amp;feature=youtube_channel" class="about-channel-link-favicon ▶
+    </a>\n
+  </li>\n
+\n
+      </ul>\n
+\n
+      <ul class="about-custom-links">\n
+            <li class="channel-links-item">\n
+    <a href="http://www.gotaga.tv" rel="me nofollow" target="_blank" title="Site Web" class="about-channel-link yt-uix-redirect-link about-channel-link-with-ico ▶
+        <img src="//s2.googleusercontent.com/s2/favicons?domain_url=http%3A%2F%2Fwww.gotaga.tv&amp;feature=youtube_channel" class="about-channel-link-favicon" a ▶
+        <span class="about-channel-link-text">\n
+          Site Web\n
+        </span>\n
+    </a>\n
+  </li>\n
+\n
+      </ul>\n
+  </div>\n
+\n
+\n
+          <a class="channel-header-profile-image-container spf-link" href="/user/GoTaG4">\n
+      <img class="channel-header-profile-image" src="https://yt3.ggpht.com/a-/AAuE7mAczNrik62Vhu-jzLu4vTZWJ5O-gHdLsFE-MQ=s100-mo-c-c0xffffffff-rj-k-no" title="G ▶
+    </a>\n
+\n
+  </div>\n
+\n
+    </div>\n
+          <div class="primary-header-contents clearfix" id="c4-primary-header-contents">\n
+    <div class="primary-header-upper-section-wrapper clearfix">\n
+        <div class="primary-header-upper-section">\n
+    <div class="primary-header-upper-section-block">\n
+      <h1 class="branded-page-header-title">\n
+        <span class="qualified-channel-title ellipsized has-badge"><span class="qualified-channel-title-wrapper"><span dir="ltr" class="qualified-channel-title- ▶
+      </h1>\n
+    </div>\n
+    <div class="primary-header-upper-section-block">\n
+      <div class="primary-header-actions">\n
+                <span class="channel-header-subscription-button-container yt-uix-button-subscription-container with-preferences" ><button class="yt-uix-button y ▶
+  <span class="subscription-preferences-overlay-container">\n
+    \n
+  <div class="yt-uix-overlay "  data-overlay-style="primary" data-overlay-shape="tiny">\n
+    \n
+        <div class="yt-dialog hid ">\n
+    <div class="yt-dialog-base">\n
+      <span class="yt-dialog-align"></span>\n
+      <div class="yt-dialog-fg" role="dialog">\n
+        <div class="yt-dialog-fg-content">\n
+          <div class="yt-dialog-loading">\n
+              <div class="yt-dialog-waiting-content">\n
+      <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+Chargement…\n
+    </span>\n
+  </p>\n
+\n
+  </div>\n
+\n
+          </div>\n
+          <div class="yt-dialog-content">\n
+              <div class="subscription-preferences-overlay-content-container">\n
+    <div class="subscription-preferences-overlay-loading ">\n
+        <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+Chargement…\n
+    </span>\n
+  </p>\n
+\n
+    </div>\n
+    <div class="subscription-preferences-overlay-content">\n
+    </div>\n
+  </div>\n
+\n
+          </div>\n
+          <div class="yt-dialog-working">\n
+              <div class="yt-dialog-working-overlay"></div>\n
+  <div class="yt-dialog-working-bubble">\n
+    <div class="yt-dialog-waiting-content">\n
+        <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+        Opération en cours…\n
+    </span>\n
+  </p>\n
+\n
+      </div>\n
+  </div>\n
+\n
+          </div>\n
+        </div>\n
+        <div class="yt-dialog-focus-trap" tabindex="0"></div>\n
+      </div>\n
+    </div>\n
+  </div>\n
+\n
+\n
+  </div>\n
+\n
+  </span>\n
+</span>\n
+\n
+\n
+      </div>\n
+    </div>\n
+  </div>\n
+\n
+    </div>\n
+    \n
+  </div>\n
+\n
+      <div id="channel-subheader" class="clearfix branded-page-gutter-padding appbar-content-trigger">\n
+    <ul id="channel-navigation-menu" class="clearfix">\n
+        <li>\n
+          <a  href="/user/GoTaG4/featured?disable_polymer=1" class="yt-uix-button  spf-link  yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-d ▶
+        </li>\n
+        <li>\n
+          <h2 class="epic-nav-item-heading " aria-label="Vidéos tab" aria-selected="true" tabindex="0">Vidéos</h2>\n
+        </li>\n
+        <li>\n
+          <a  href="/user/GoTaG4/playlists?disable_polymer=1" class="yt-uix-button  spf-link  yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size- ▶
+        </li>\n
+        <li>\n
+          <a  href="/user/GoTaG4/community?disable_polymer=1" class="yt-uix-button  spf-link  yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size- ▶
+        </li>\n
+        <li>\n
+          <a  href="/user/GoTaG4/channels?disable_polymer=1" class="yt-uix-button  spf-link  yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-d ▶
+        </li>\n
+        <li>\n
+          <a  href="/user/GoTaG4/about?disable_polymer=1" class="yt-uix-button  spf-link  yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-defa ▶
+        </li>\n
+        <li>\n
+          <div id="channel-search" ><button class="show-search epic-nav-item secondary-nav" title="Rechercher sur la chaîne"><span class="epic-nav-item-heading- ▶
+        </li>\n
+    </ul>\n
+  </div>\n
+\n
+\n
+  </div>\n
+\n
+\n
+\n
+      </div>\n
+\n
+    <div class="branded-page-v2-col-container">\n
+      <div class="branded-page-v2-col-container-inner">\n
+        <div class="branded-page-v2-primary-col">\n
+          <div class="   yt-card  clearfix">\n
+              <div class="branded-page-v2-body branded-page-v2-primary-column-content" id="">\n
+    \n
+    <ul id="browse-items-primary">\n
+      \n
+      \n
+          <li class="branded-page-v2-subnav-container branded-page-gutter-padding clearfix">\n
+            <button aria-expanded="false" onclick=";return false;" class="subnav-flow-menu yt-uix-button yt-uix-button-default yt-uix-button-size-default" type= ▶
+\n
+            <button aria-expanded="false" onclick=";return false;" class="subnav-sort-menu yt-uix-button yt-uix-button-default yt-uix-button-size-default" type= ▶
+\n
+        \n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+      <a  href="/user/GoTaG4" class="yt-uix-button  sub-menu-back-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-i ▶
+\n
+            <button aria-expanded="false" onclick=";return false;" class="subnav-view-menu yt-uix-button yt-uix-button-default yt-uix-button-size-default" type= ▶
+\n
+    </li>\n
+\n
+          <script type="application/ld+json">\n
+      {"itemListElement":[],"url":"https:\/\/www.youtube.com\/channel\/UCCFqUJYKT97UerMmb6DM0bw","@type":"ItemList","@context":"http:\/\/schema.org"}\n
+    </script>\n
+      <li>\n
+            <ul id="channels-browse-content-grid" class="channels-browse-content-grid branded-page-gutter-padding grid-lockups-container">\n
+        <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="u4wOznCvetY"\n
+      data-visibility-tracking="CDAQlDUYACITCIrTwubBleECFYcH4QodDpsO-yibHEDW9b2F59mDxrsB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=u4wOznCvetY" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/u4wOznCvetY/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="35 minutes">35:08</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        \n
+    <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="DES PARIS À 500$ CON ▶
+\n
+    \n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>2 190 296 vues</li><li>il y a 6 jours</li></ul>  </div>\n
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >Sous-titres</span></li></ul></div>\n
+  \n
+  \n
+    \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="ADtGuw6b3t0"\n
+      data-visibility-tracking="CC8QlDUYASITCIrTwubBleECFYcH4QodDpsO-yibHEDdve_0sNfRHQ=="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=ADtGuw6b3t0" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/ADtGuw6b3t0/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="24 minutes">24:06</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="SUIS LES FLAMMES ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>710 539 vues</li><li>il y a 1 semaine</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="OGTQDYyNCjI"\n
+      data-visibility-tracking="CC4QlDUYAiITCIrTwubBleECFYcH4QodDpsO-yibHECylLTk2IG0sjg="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=OGTQDYyNCjI" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/OGTQDYyNCjI/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="54 minutes">54:34</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="L&#39;EXPLICATIO ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>936 584 vues</li><li>il y a 2 semaines</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="d_zGqJGsrGg"\n
+      data-visibility-tracking="CC0QlDUYAyITCIrTwubBleECFYcH4QodDpsO-yibHEDo2LKNidWx_nc="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=d_zGqJGsrGg" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/d_zGqJGsrGg/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="34 minutes">34:39</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="TOURNOI DE BUILD ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 033 386 vues</li><li>il y a 2 semaines</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="Gl1DSF5cY0Y"\n
+      data-visibility-tracking="CCwQlDUYBCITCIrTwubBleECFYcH4QodDpsO-yibHEDGxvHyhenQrho="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=Gl1DSF5cY0Y" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/Gl1DSF5cY0Y/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="46 minutes">46:00</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="QUAND LES JOUEUR ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>884 883 vues</li><li>il y a 2 semaines</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="Km42tkoaN1o"\n
+      data-visibility-tracking="CCsQlDUYBSITCIrTwubBleECFYcH4QodDpsO-yibHEDa7ujQ5NaNtyo="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=Km42tkoaN1o" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/Km42tkoaN1o/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="26 minutes">26:27</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LA NOUVELLE SAIS ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 630 236 vues</li><li>il y a 3 semaines</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="zu5y829tLds"\n
+      data-visibility-tracking="CCoQlDUYBiITCIrTwubBleECFYcH4QodDpsO-yibHEDb27T7tt6c984B"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=zu5y829tLds" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/zu5y829tLds/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="23 minutes">23:40</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LE PIRE TUEUR."  ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>553 188 vues</li><li>il y a 3 semaines</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="xEc5d8ZsgiI"\n
+      data-visibility-tracking="CCkQlDUYByITCIrTwubBleECFYcH4QodDpsO-yibHECihLKz_K7Oo8QB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=xEc5d8ZsgiI" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/xEc5d8ZsgiI/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="30 minutes">30:30</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LE MEILLEUR DES  ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 050 473 vues</li><li>il y a 3 semaines</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="8XkWgyxFCsQ"\n
+      data-visibility-tracking="CCgQlDUYCCITCIrTwubBleECFYcH4QodDpsO-yibHEDElZTistDFvPEB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=8XkWgyxFCsQ" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/8XkWgyxFCsQ/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="34 minutes">34:49</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="ROBI VA-T-IL TRO ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>958 212 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="DLJ9oXHFStw"\n
+      data-visibility-tracking="CCcQlDUYCSITCIrTwubBleECFYcH4QodDpsO-yibHEDclZWOl7Sf2Qw="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=DLJ9oXHFStw" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/DLJ9oXHFStw/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="24 minutes">24:32</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="UN NOUVEAU RECOR ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>923 011 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="TQUDAJCNnWQ"\n
+      data-visibility-tracking="CCYQlDUYCiITCIrTwubBleECFYcH4QodDpsO-yibHEDkuraEieDAgk0="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=TQUDAJCNnWQ" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/TQUDAJCNnWQ/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="17 minutes">17:30</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="MARATHON 100 TOP ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>437 119 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="QG9CrC5Dp8A"\n
+      data-visibility-tracking="CCUQlDUYCyITCIrTwubBleECFYcH4QodDpsO-yibHEDAz47ywtXQt0A="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=QG9CrC5Dp8A" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/QG9CrC5Dp8A/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="41 minutes">41:45</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="IL AFFRONTE SKYY ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>718 897 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="ox5Vm70j2Po"\n
+      data-visibility-tracking="CCQQlDUYDCITCIrTwubBleECFYcH4QodDpsO-yibHED6sY_pu7OVj6MB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=ox5Vm70j2Po" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/ox5Vm70j2Po/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="21 minutes">21:37</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LE NOUVEAU PATCH ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 781 363 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="ZiAJi-W-FDU"\n
+      data-visibility-tracking="CCMQlDUYDSITCIrTwubBleECFYcH4QodDpsO-yibHEC1qPitvrGCkGY="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=ZiAJi-W-FDU" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/ZiAJi-W-FDU/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="1 heure et 5 minutes">1:05:21</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="MON STATUT PRO E ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 790 890 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="wwNXK7qGtrQ"\n
+      data-visibility-tracking="CCIQlDUYDiITCIrTwubBleECFYcH4QodDpsO-yibHEC07ZrUu-XVgcMB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=wwNXK7qGtrQ" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/wwNXK7qGtrQ/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="25 minutes">25:08</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="*NEW CONCEPT FOR ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>805 689 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="xZAXigU3v6E"\n
+      data-visibility-tracking="CCEQlDUYDyITCIrTwubBleECFYcH4QodDpsO-yibHECh_96poPGFyMUB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=xZAXigU3v6E" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/xZAXigU3v6E/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="27 minutes">27:30</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="IL REMPORTE LE R ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>948 963 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="dSRWN8O1_eE"\n
+      data-visibility-tracking="CCAQlDUYECITCIrTwubBleECFYcH4QodDpsO-yibHEDh-9ed_MaVknU="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=dSRWN8O1_eE" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/dSRWN8O1_eE/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="16 minutes">16:38</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LES MANE ENCHAÎN ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>385 599 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="LNFtyLq3FcM"\n
+      data-visibility-tracking="CB8QlDUYESITCIrTwubBleECFYcH4QodDpsO-yibHEDDq9zVi7nb6Cw="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=LNFtyLq3FcM" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/LNFtyLq3FcM/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="40 minutes">40:22</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="UN MASTERKILL EP ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>859 666 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="vHli8YDQTUw"\n
+      data-visibility-tracking="CB4QlDUYEiITCIrTwubBleECFYcH4QodDpsO-yibHEDMmsGGmN7YvLwB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=vHli8YDQTUw" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/vHli8YDQTUw/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="30 minutes">30:46</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LES MANE TAPENT  ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 289 038 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="gCJbv_KG3sQ"\n
+      data-visibility-tracking="CB0QlDUYEyITCIrTwubBleECFYcH4QodDpsO-yibHEDEvZuU__eWkYAB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=gCJbv_KG3sQ" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/gCJbv_KG3sQ/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="11 minutes">11:01</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="*NOUVEAU BATTLE  ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 022 441 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="LxXLW7MrOXs"\n
+      data-visibility-tracking="CBwQlDUYFCITCIrTwubBleECFYcH4QodDpsO-yibHED78qyZu-vyii8="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=LxXLW7MrOXs" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/LxXLW7MrOXs/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="28 minutes">28:33</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="TOURNOI DE BUILD ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 239 236 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="5ELrUiVeQOM"\n
+      data-visibility-tracking="CBsQlDUYFSITCIrTwubBleECFYcH4QodDpsO-yibHEDjgfmqouq6oeQB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=5ELrUiVeQOM" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/5ELrUiVeQOM/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="35 minutes">35:54</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LE PREMIER ROYAL ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 125 266 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="K2YRgZKbepw"\n
+      data-visibility-tracking="CBoQlDUYFiITCIrTwubBleECFYcH4QodDpsO-yibHECc9e2UmbCEsys="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=K2YRgZKbepw" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/K2YRgZKbepw/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="51 minutes">51:09</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="UN NOUVEL ESCROC ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 003 940 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="GZlacDdktmk"\n
+      data-visibility-tracking="CBkQlDUYFyITCIrTwubBleECFYcH4QodDpsO-yibHEDp7JK7g87WzBk="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=GZlacDdktmk" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/GZlacDdktmk/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="32 minutes">32:45</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LE MAÎTRE DU ROY ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 207 003 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="FA7yqFk7tKY"\n
+      data-visibility-tracking="CBgQlDUYGCITCIrTwubBleECFYcH4QodDpsO-yibHECm6e7JhdW8hxQ="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=FA7yqFk7tKY" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/FA7yqFk7tKY/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="45 minutes">45:21</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="THE YANNOU SHOW  ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 157 579 vues</li><li>il y a 1 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="iPd9RfnxpUc"\n
+      data-visibility-tracking="CBcQlDUYGSITCIrTwubBleECFYcH4QodDpsO-yibHEDHysbP36jf-4gB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=iPd9RfnxpUc" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/iPd9RfnxpUc/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="22 minutes">22:14</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LA COURSE DE L&# ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>828 497 vues</li><li>il y a 2 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="g5t2Oi48eAw"\n
+      data-visibility-tracking="CBYQlDUYGiITCIrTwubBleECFYcH4QodDpsO-yibHECM8PHxosfdzYMB"\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=g5t2Oi48eAw" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/g5t2Oi48eAw/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="49 minutes">49:22</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LES BOSS DU GAME ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>892 562 vues</li><li>il y a 2 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="F8KsbIyq78Q"\n
+      data-visibility-tracking="CBUQlDUYGyITCIrTwubBleECFYcH4QodDpsO-yibHEDE36vlyI2r4Rc="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=F8KsbIyq78Q" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/F8KsbIyq78Q/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="17 minutes">17:44</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="DEATHRUN FORTNIT ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 645 072 vues</li><li>il y a 2 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="dZSwPlMiaJQ"\n
+      data-visibility-tracking="CBQQlDUYHCITCIrTwubBleECFYcH4QodDpsO-yibHECU0YmZ5YesynU="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=dZSwPlMiaJQ" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/dZSwPlMiaJQ/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="23 minutes">23:55</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="JE SUIS AMOUREUX ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>2 452 733 vues</li><li>il y a 2 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+    <li class="channels-content-item yt-shelf-grid-item">\n
+        \n
+\n
+\n
+\n
+    <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-grid vve-check"\n
+      data-context-item-id="da-NK3SZnqg"\n
+      data-visibility-tracking="CBMQlDUYHSITCIrTwubBleECFYcH4QodDpsO-yibHECoveakt6Xj13U="\n
+  >\n
+      <div class="yt-lockup-dismissable">\n
+          <div class="yt-lockup-thumbnail"\n
+  >\n
+      <span class=" spf-link  ux-thumb-wrap contains-addto"><a href="/watch?v=da-NK3SZnqg" class="yt-uix-sessionlink" aria-hidden="true"  data-sessionlink="ei=Z ▶
+    >\n
+    <span class="yt-thumb-default">\n
+      <span class="yt-thumb-clip">\n
+        \n
+  <img alt="" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" aria-hidden="true" data-ytimg="1" src="https://i.ytimg.com/vi/da-NK3SZnqg/hqdefault.jpg?sqp=-oay ▶
+\n
+        <span class="vertical-align"></span>\n
+      </span>\n
+    </span>\n
+  </span>\n
+</a>    <span class="video-time" aria-hidden="true"><span aria-label="1 heure et 4 minutes">1:04:34</span></span>\n
+  <span class="thumb-menu dark-overflow-action-menu video-actions">\n
+    <button aria-expanded="false" onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-but ▶
+  </span>\n
+\n
+\n
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actio ▶
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue ▶
+</span>\n
+\n
+  </div>\n
+  <div class="yt-lockup-content">\n
+        <h3 class="yt-lockup-title "><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="LE MASTERKILL DE ▶
+\n
+\n
+\n
+  <div class="yt-lockup-meta">\n
+<ul class="yt-lockup-meta-info"><li>1 951 489 vues</li><li>il y a 2 mois</li></ul>  </div>\n
+  \n
+  \n
+  \n
+\n
+  </div>\n
+\n
+      </div>\n
+      <div class="yt-lockup-notifications-container hid"\n
+           style="height:110px"\n
+      ></div>\n
+    \n
+  </div>\n
+\n
+\n
+\n
+    </li>\n
+\n
+  </ul>\n
+\n
+      \n
+\n
+\n
+\n
+\n
+\n
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default load-more-button yt-uix-load-more browse-items-load-more-button" type="button" ▶
+" data-uix-load-more-target-id="channels-browse-content-grid" data-uix-load-more-href="/browse_ajax?action_continuation=1&amp;direct_render=1&amp;continuation=4 ▶
+      <span class="yt-spinner">\n
+      <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+Chargement…\n
+  </span>\n
+\n
+  </span>\n
+  <span class="load-more-text">\n
+    Afficher plus\n
+\n
+  </span>\n
+</span></button>\n
+\n
+\n
+\n
+\n
+      </li>\n
+\n
+    </ul>\n
+\n
+\n
+      \n
+    <img class="hid" src="https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&amp;cname=1&amp;cver=1_20190320&amp;data=backend%3Di ▶
+\n
+\n
+\n
+  </div>\n
+\n
+          </div>\n
+        </div>\n
+      </div>\n
+    </div>\n
+  </div>\n
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter force-layer"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" ▶
+      <li>\n
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt- ▶
+Langue :\n
+  </span>\n
+  Français\n
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>\n
+\n
+\n
+      </li>\n
+      <li>\n
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button"  ▶
+Pays :\n
+  </span>\n
+  France\n
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>\n
+\n
+\n
+      </li>\n
+      <li>\n
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-butto ▶
+Mode restreint :\n
+  </span>\n
+Désactivé\n
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>\n
+\n
+\n
+      </li>\n
+  </ul>\n
+<a  href="/feed/history" class="yt-uix-button  footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-s ▶
+</span></button>\n
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">\n
+      <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+Chargement…\n
+    </span>\n
+  </p>\n
+\n
+  </div>\n
+\n
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">\n
+      <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+Chargement…\n
+    </span>\n
+  </p>\n
+\n
+  </div>\n
+\n
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">\n
+      <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+Chargement…\n
+    </span>\n
+  </p>\n
+\n
+  </div>\n
+\n
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="//www.youtube.com/yt/about/fr/">À propos</a></li>\n
+  <li><a href="//www.youtube.com/yt/press/fr/">Presse</a></li>\n
+  <li><a href="//www.youtube.com/yt/copyright/fr/">Droits d&#39;auteur</a></li>\n
+  <li><a href="//www.youtube.com/yt/creators/fr/">Créateurs</a></li>\n
+  <li><a href="//www.youtube.com/yt/advertise/fr/">Publicité</a></li>\n
+  <li><a href="//www.youtube.com/yt/dev/fr/">Développeurs</a></li>\n
+</ul><ul id="footer-links-secondary">  <li><a href="/t/terms">Conditions d&#39;utilisation</a></li>\n
+  <li><a href="https://www.google.fr/intl/fr/policies/privacy/">Confidentialité</a></li>\n
+  <li><a href="//www.youtube.com/yt/policyandsafety/fr/">\n
+Règles et sécurité\n
+  </a></li>\n
+  <li><a href="//support.google.com/youtube/?hl=fr" onclick="return yt.www.feedback.start(59);" class="reportbug">Votre avis</a></li>\n
+  <li>\n
+    <a href="/testtube">Tester de nouvelles fonctionnalités</a>\n
+  </li>\n
+  <li></li>\n
+</ul></div></div></div>\n
+\n
+      <div class="yt-dialog hid " id="feed-privacy-lb">\n
+    <div class="yt-dialog-base">\n
+      <span class="yt-dialog-align"></span>\n
+      <div class="yt-dialog-fg" role="dialog">\n
+        <div class="yt-dialog-fg-content">\n
+          <div class="yt-dialog-loading">\n
+              <div class="yt-dialog-waiting-content">\n
+      <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+Chargement…\n
+    </span>\n
+  </p>\n
+\n
+  </div>\n
+\n
+          </div>\n
+          <div class="yt-dialog-content">\n
+              <div id="feed-privacy-dialog">\n
+  </div>\n
+\n
+          </div>\n
+          <div class="yt-dialog-working">\n
+              <div class="yt-dialog-working-overlay"></div>\n
+  <div class="yt-dialog-working-bubble">\n
+    <div class="yt-dialog-waiting-content">\n
+        <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+        Opération en cours…\n
+    </span>\n
+  </p>\n
+\n
+      </div>\n
+  </div>\n
+\n
+          </div>\n
+        </div>\n
+        <div class="yt-dialog-focus-trap" tabindex="0"></div>\n
+      </div>\n
+    </div>\n
+  </div>\n
+\n
+\n
+<div id="hidden-component-template-wrapper" class="hid">    <div id="shared-addto-watch-later-login" class="hid">\n
+      <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fuser%252FGoTaG4%252Fvideo ▶
+\n
+    </div>\n
+<div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">  <div class="hide-on-create-pl-panel">\n
+    <h3>\n
+Ajouter à\n
+    </h3>\n
+  </div>\n
+  <div class="add-to-widget">\n
+      <p class="yt-spinner ">\n
+        <span title="Icône de chargement" class="yt-spinner-img  yt-sprite"></span>\n
+\n
+    <span class="yt-spinner-message">\n
+        Chargement des playlists...\n
+    </span>\n
+  </p>\n
+\n
+  </div>\n
+</div></div>    <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['request-headers'] = {'X-You ▶
+  <script src="/yts/jsbin/spf-vflqCgDoF/spf.js" type="text/javascript" name="spf/spf" ></script>\n
+  <script src="/yts/jsbin/www-en_US-vflePDNhX/base.js"  name="www/base" ></script>\n
+<script>spf.script.path({'www/': '/yts/jsbin/www-en_US-vflePDNhX/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/angular_base": "www/common ▶
+\n
+  <script>\n
+      yt.setConfig('ANGULAR_JS', "\/yts\/jslib\/angular.min-vflQbF7W6.js");\n
+  yt.setConfig('TRANSLATIONEDITOR_JS', "\/yts\/jsbin\/www-translationeditor-vfl2Ekbal\/www-translationeditor.js");\n
+  yt.setMsg('UNSAVED_CHANGES_WARNING', "Certaines modifications apportées aux paramètres vidéo n\u0026#39;ont pas été enregistrées et seront perdues si vous qui ▶
+\n
+\n
+    yt.setConfig('JS_PAGE_MODULES', ["www\/channels","www\/ypc_bootstrap"]);\n
+\n
+\n
+\n
+\n
+    yt.setConfig('CHANNEL_ID', "UCCFqUJYKT97UerMmb6DM0bw");\n
+\n
+\n
+    yt.setConfig('CHANNEL_TAB', "videos");\n
+\n
+        (function() {\n
+      var channelHeaderEl = document.querySelector('.channel-header');\n
+      if (!channelHeaderEl) {\n
+        return;\n
+      }\n
+\n
+      if (!/channel-header-auto-hide/.test(channelHeaderEl.className)) {\n
+        return;\n
+      }\n
+\n
+      var brandedPageContainer = document.querySelector('.branded-page-v2-container');\n
+      var originalHeight = brandedPageContainer.clientHeight;\n
+      channelHeaderEl.className = channelHeaderEl.className.replace(/\bhid\b/);\n
+      var height = brandedPageContainer.clientHeight;\n
+      var scrollDistance = height - originalHeight;\n
+\n
+      document.body.style.minHeight = 0;\n
+\n
+      var bodyScrollHeight = document.body.scrollHeight;\n
+      var bodyClientHeight = document.body.clientHeight;\n
+      var heightToIncrease = scrollDistance - (bodyScrollHeight - bodyClientHeight);\n
+      if (heightToIncrease > 0) {\n
+        document.body.style.minHeight = bodyScrollHeight + heightToIncrease + 'px';\n
+      }\n
+\n
+      document.body.scrollTop = document.documentElement.scrollTop = scrollDistance;\n
+    }());\n
+\n
+\n
+  yt.setConfig('DISMISS_THROUGH_IT', true);\n
+\n
+\n
+      yt.setConfig({\n
+        'GUIDE_SELECTED_ITEM': "0qDduQE0EhhVQ0NGcVVKWUtUOTdVZXJNbWI2RE0wYncaGEVnWjJhV1JsYjNNNEFiZ0JBQSUzRCUzRA%3D%3D"\n
+      });\n
+\n
+      yt.setConfig({\n
+    'GUIDED_HELP_LOCALE': "fr_FR",\n
+    'GUIDED_HELP_ENVIRONMENT': "prod"\n
+  });\n
+\n
+  </script>\n
+  \n
+<script>yt.setConfig({INNERTUBE_API_VERSION: "v1",GAPI_HINT_PARAMS: "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.czVu3mGTc9g.O\/rt=j\/d=1\/rs=AHpOoo_eflQJ9rp6 ▶
+    'GUIDED_HELP_LOCALE': "fr_FR",\n
+    'GUIDED_HELP_ENVIRONMENT': "prod"\n
+  });\n
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Créer une playlist\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_pla ▶
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);\n
+yt.setConfig({'SBOX_JS_URL': "\/yts\/jsbin\/www-searchbox-vflnCLm3P\/www-searchbox.js",'SBOX_SETTINGS': {"PQ":"","SUGG_EXP_ID":"dedupc,cfro=1,fp.cdr=1","SESSION ▶
+    'YPC_LOADER_JS': "\/yts\/jsbin\/www-ypc-vflw5ZcIx\/www-ypc.js",\n
+    'YPC_LOADER_CSS': "\/yts\/cssbin\/www-ypc-vflbH3pUh.css",\n
+    'YPC_SIGNIN_URL': "https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252F%26action_hand ▶
+    'DBLCLK_ADVERTISER_ID': "2542116",\n
+    'DBLCLK_YPC_ACTIVITY_GROUP': "youtu444",\n
+    'SUBSCRIPTION_URL': "\/subscription_ajax",\n
+    'YPC_SWITCH_URL': "\/signin?next=%2F\u0026action_handle_signin=true\u0026feature=purchases\u0026skip_identity_prompt=True",\n
+    'YPC_GB_LANGUAGE': "fr_FR",\n
+    'YPC_MB_URL': "https:\/\/payments.youtube.com\/payments\/v4\/js\/integrator.js?ss=md",\n
+    'YPC_TRANSACTION_URL': "\/transaction_handler",\n
+    'YPC_SUBSCRIPTION_URL': "\/ypc_subscription_ajax",\n
+    'YPC_POST_PURCHASE_URL': "\/ypc_post_purchase_ajax",\n
+    'YTR_FAMILY_CREATION_URL': "https:\/\/families.google.com\/webcreation?usegapi=1",\n
+    'YTO_GTM_DATA': {'event': 'purchased', 'purchaseStatus': 'success'},\n
+    'YTO_GTM_1_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '1'},\n
+    'YTO_GTM_2_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '2'}\n
+  });\n
+  yt.setMsg({\n
+    'YPC_OFFER_OVERLAY': "  \n",\n
+    'YPC_UNSUBSCRIBE_OVERLAY': "  \n"\n
+  });\n
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "channel_creator");\n
+ytcsi.info('st', 471);ytcfg.set({"TIMING_INFO":{"cver":"1.20190320","yt_li":"0","c":"WEB","GetBrowse_rid":"0xd65e38b30bdf155c","yt_lt":"cold"},"CSI_SERVICE_NAME ▶
+      'XSRF_TOKEN': "QUFFLUhqbEhRbHlPbFZNVjdCb0NRekFtZUp0S2xmQy02QXxBQ3Jtc0tuMjU0Vk50ZFZ3dkFWTS1TdlJMQW9rbTRKRDRTT09SQnc1WDZ5bGRSMVBnRnZuWk1mM2J1cDJZcE96S2hfcUd ▶
+      'XSRF_FIELD_NAME': "session_token",\n
+\n
+      'XSRF_REDIRECT_TOKEN': "j_39depnrL8nOElJynTlq2Dz6c18MTU1MzMzNjAzNkAxNTUzMjQ5NjM2"  });\n
+yt.setConfig('ID_TOKEN', null);window.ytcfg.set('SERVICE_WORKER_KILLSWITCH', false);  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);\n
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>\n
+</body></html>\n
+\n
+\n
+"""
+

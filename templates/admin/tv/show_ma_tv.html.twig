@@ -1,0 +1,40 @@
+{% extends 'tv/layout.html.twig' %}
+
+{% block title %}Show ma tv{% endblock %}
+
+{% block body %}
+
+    <!--================Categories Banner Area =================-->
+    <section class="solid_banner_area">
+        <div class="container">
+            <div class="solid_banner_inner">
+                <h3>{{ tv.nomTv }}</h3>
+                <ul>
+                    <li><a href="">Ma Tv</a></li>
+                    <li><a href="">show maTV</a></li>
+                </ul>
+                <h3>{{ tv.descriptionTv }}</h3>
+            </div>
+        </div>
+    </section>
+    <!--================End Categories Banner Area =================-->
+
+    <!--================Home Carousel Area =================-->
+    <section class="home_carousel_area">
+        <div class="home_carousel_slider owl-carousel">
+            <div class="item">
+                <div class="h_carousel_item">
+                    <img src="{{ asset('assets/img/home-carousel/home-c-1.jpg') }}" alt="">
+                    <div class="carousel_hover">
+                        <h3>mens bag</h3>
+                        <h4>We feature the best professional bags </h4>
+                        <h5>Including:</h5>
+                        <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                        <a class="discover_btn" href="#">discover now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================End Home Carousel Area =================-->
+{% endblock %}

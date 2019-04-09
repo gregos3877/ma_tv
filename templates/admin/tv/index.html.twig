@@ -1,0 +1,53 @@
+{% extends 'admin/tv/layout.html.twig' %}
+
+{% block title %}Bienvenue sur votre TV !{% endblock %}
+
+{% block body %}
+    <!--================Latest Product isotope Area =================-->
+    <section class="fillter_latest_product">
+        <div class="container">
+            <div class="single_c_title">
+                <h2>Vos chaines</h2>
+            </div>
+            <div class="form-group col-lg-3">
+                <a href="{{ path('rechercher_chaine') }}" class="btn update_btn form-control" >Ajouter une chaine</a>
+            </div>
+            <div class="fillter_l_p_inner">
+                <ul class="fillter_l_p">
+                    <li class="active" data-filter="*"><a href="#">all</a></li>
+                    <li data-filter=".youtube"><a href="#">Youtube</a></li>
+                    <li data-filter=".twitch"><a href="#">Twitch</a></li>
+                </ul>
+                <div class="row isotope_l_p_inner">
+                    {% for chaineTv in listeChaineTv %}
+                        <div class="col-lg-3 col-md-4 col-sm-6 {{ chaineTv.chaine.plateform.nomPlateform|lower }}">
+                            <div class="l_product_item">
+                                <div class="l_p_img">
+                                    <img class="img-fluid" src="{{ asset("assets/img/chaine/#{chaineTv.chaine.plateform.nomPlateform}/#{chaineTv.chaine.imageChaine}") }}" alt="">
+                                </div>
+                                <div class="l_p_text">
+                                    <ul>
+                                        <li class="p_icon"><a href="#"><i class="icon_piechart"></i></a></li>
+                                        <li><a class="add_cart_btn" href="{{ path('chaine_tv_remove', {'id': chaineTv.id}) }}">Retirer</a></li>
+                                        <li class="p_icon"><a href="#"><i class="icon_heart_alt"></i></a></li>
+                                    </ul>
+                                    <h4>{{ chaineTv.chaine.nomChaine }}</h4>
+                                    <h5>
+                                        {{ chaineTv.chaine.plateform.nomPlateform }}
+                                    </h5>
+                                </div>
+                            </div>
+                        </div>
+                    {% else %}
+                        Aucune Chaine
+                    {% endfor %}
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================End Latest Product isotope Area =================-->
+
+
+{% endblock %}

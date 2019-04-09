@@ -1,0 +1,156 @@
+{% extends 'tv/layout.html.twig' %}
+
+{% block title %}Ajouter une Chaine sur la tv{% endblock %}
+
+{% block body %}
+
+    <!--================Categories Banner Area =================-->
+    <section class="solid_banner_area">
+        <div class="container">
+            <div class="solid_banner_inner">
+                <h3>Ajouter une Chaine</h3>
+                <ul>
+                    <li><a href="">Ma Tv</a></li>
+                    <li><a href="">Ajouter Chaine</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!--================End Categories Banner Area =================-->
+
+    <div class="messages">
+        {% for type, messages in app.flashes %}
+            {% for message in messages %}
+                {# Bootstrap alert, see http://getbootstrap.com/components/#alerts #}
+                {#<div class="alert alert-dismissible alert-{{ type }} fade in" role="alert">#}
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+
+                {{ message }}
+                {#</div>#}
+            {% endfor %}
+        {% endfor %}
+    </div>
+
+
+    {#{{ render(controller('App\\Controller\\ChaineController::formRechercheChaine')) }}#}
+
+    <!--================End Categories Banner Area =================-->
+    <section class="checkout_method_area p_100">
+        <div class="container">
+            <div class="row">
+                <div class="checkout_main_area">
+                    <div class="checkout_prosses">
+                        <div class="row m0">
+                            <div class="col-md-6">
+                                <div class="checkout_method">
+                                    <h3>Choisissez une plateform</h3>
+                                    <h4>La plateform ou a chaine est diffusé</h4>
+                                    {{ form_start(form) }}
+                                    {{ form_errors(form) }}
+                                    {{ form_row(form.plateform) }}
+                                    <ul class="radio_style">
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="row checkout_from_area">
+                                    <h2>nom de la chaine</h2>
+                                    <p>Le nom referencé sur la plateform</p>
+                                    <div class="form-group">
+                                        {{ form_label(form.nomChaine) }}
+                                        {{ form_widget(form.nomChaine, {'attr' : {'class':'form-control'}}) }}
+                                    </div>
+
+                                </div>
+                                <button type="submit" class="btn update_btn btn-default">Rechercher</button>
+                                {{ form_end(form) }}
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================End Categories Banner Area =================-->
+
+
+
+
+    {% if chaine is defined %}
+        {% if chaine is not null %}
+            <!--================Resultat Recherche Area =================-->
+            <section class="categories_product_main p_80">
+                <div class="container">
+                    <div class="categories_main_inner">
+                        <div class="row row_disable">
+                            <div class="col-lg-9 float-md">
+                                <div class="c_product_grid_details">
+
+                                    <div class="c_product_item">
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-6">
+                                                <div class="c_product_img">
+                                                    <img class="img-fluid"
+                                                         src="{{ asset("assets/img/chaine/#{chaine.plateform.nomPlateform}/#{chaine.imageChaine}") }}" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-8 col-md-6">
+                                                <div class="c_product_text">
+                                                    <h3>{{ chaine.plateform.nomPlateform }}</h3>
+                                                    <h5>{{ chaine.nomChaine }}</h5>
+                                                    <ul class="product_rating">
+                                                        <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                                        <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                                        <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                                        <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                                        <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                                    </ul>
+                                                    <h6>Available In <span>Stock</span></h6>
+                                                    <p>Curabitur semper varius lectus sed consequat. Nam accumsan
+                                                        dapibus sem,
+                                                        sed lobortis nisi porta vitae. Ut quam tortor, facilisis nec
+                                                        laoreet
+                                                        consequat, malesuada a massa. Proin pretium tristique leo et
+                                                        imperdiet.</p>
+                                                    <ul class="c_product_btn">
+                                                        <li class="p_icon"><a href="#"><i class="icon_piechart"></i></a>
+                                                        </li>
+
+
+                                                        {{ render(controller('App\\Controller\\TvController::showChaine', { 'chaine' : chaine } )) }}
+
+                                                        {#<li><a class="add_cart_btn"#}
+                                                               {#href="{{ path('ajouter_chaine', {'chaine':chaine.id}) }}">Ajouter</a>#}
+                                                        {#</li>#}
+
+
+                                                        <li class="p_icon"><a href="#"><i
+                                                                        class="icon_heart_alt"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--================End Categories Product Area =================-->
+        {% else %}
+            {#La chaine avec le nom {{ chaine.nomChaine }} n'a pas etait trouvé sur la plateforme {{ chaine.plateform.nomPlateform }}#}
+            Aucune Chaine trouvé
+        {% endif %}
+    {% else %}
+        {#Veuillez rechercher une chaine afin de l'ajouter sur votre TV !#}
+    {% endif %}
+
+
+
+
+{% endblock %}

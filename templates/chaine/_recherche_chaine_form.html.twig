@@ -1,0 +1,39 @@
+<!--================End Categories Banner Area =================-->
+<section class="checkout_method_area p_100">
+    <div class="container">
+        <div class="row">
+            <div class="checkout_main_area">
+                <div class="checkout_prosses">
+                    <div class="row m0">
+                        <div class="col-md-6">
+                            <div class="checkout_method">
+                                <h3>Choisissez une plateform</h3>
+                                <h4>La plateform ou a chaine est diffusé</h4>
+                                {{ form_start(form, {method: 'POST', action: path('rechercher_chaine')}) }}
+                                {{ form_errors(form) }}
+                                {{ form_row(form.plateform) }}
+                                <ul class="radio_style">
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="row checkout_from_area">
+                                <h2>nom de la chaine</h2>
+                                <p>Le nom referencé sur la plateform</p>
+                                <div class="form-group">
+                                    {{ form_label(form.nomChaine) }}
+                                    {{ form_widget(form.nomChaine, {'attr' : {'class':'form-control'}}) }}
+                                </div>
+
+                            </div>
+                            <button type="submit" class="btn update_btn btn-default">Rechercher</button>
+                            {{ form_end(form) }}
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Categories Banner Area =================-->

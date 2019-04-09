@@ -1,0 +1,28 @@
+framework:
+    workflows:
+        chaine_recherching:
+            type: 'workflow'
+            audit_trail:
+                enabled: true
+            marking_store:
+                type: 'multiple_state'
+                arguments:
+                    - 'currentPlace'
+            supports:
+                - App\Entity\Chaine
+            initial_place: enrecherche
+            places:
+                - enrecherche
+                - recherchenet
+                - trouve
+            transitions:
+                to_recherchenet:
+                    from: enrecherche
+                    to: recherchenet
+                trouvebdd:
+                    from: enrecherche
+                    to : trouve
+                touvenet:
+                    from: enrecherche
+                    to: trouve
+

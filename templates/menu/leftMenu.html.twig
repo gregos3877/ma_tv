@@ -1,0 +1,23 @@
+<div class="left_menu">
+    <div class="offcanvas_fixed_menu">
+        <a class="logo_offcanvas" href="{{ path('homepage') }}"><img src="{{ asset('assets/img/logo-white.png') }}"
+                                                                     alt=""></a>
+
+        <div class="input-group search_form">
+            <input type="text" class="form-control" placeholder="Search" aria-label="Search">
+            <span class="input-group-btn">
+                            <button class="btn btn-secondary" type="button"><i
+                                        class="icon-magnifier icons"></i></button>
+                        </span>
+        </div>
+
+        {#Liste des menus#}
+        <div class="offcanvas_menu">
+            <ul class="nav flex-column">
+                <li class="nav-item"><a class="nav-link" href="{{ path('ma_tv') }}">Ma TV</a></li>
+                {% block menu_createur %}
+                {% endblock %}
+            </ul>
+        </div>
+    </div>
+</div>

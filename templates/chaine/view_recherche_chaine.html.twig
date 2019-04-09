@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}View Recherche Chaine{% endblock %}
+
+
+
+{% block body %}
+
+    {#{{ render(controller('App\\Controller\\ChaineController::formRechercheChaine')) }}#}
+    {% if chaine is not null %}
+       <h2>{{ chaine.id }} -
+        {{ chaine.nomChaine }} </h2>
+    {% endif %}
+
+{% endblock %}

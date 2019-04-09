@@ -1,0 +1,15 @@
+framework:
+    messenger:
+        buses:
+            messenger.bus.default:
+                default_middleware: true
+#                middleware:
+#                    - 'App\Middleware\RechercheChaineMiddleware'
+
+        transports:
+            # Uncomment the following line to enable a transport named "amqp"
+            # amqp: '%env(MESSENGER_TRANSPORT_DSN)%'
+
+        routing:
+            # Route your messages to the transports
+            # 'App\Message\YourMessage': amqp
